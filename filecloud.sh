@@ -12,4 +12,4 @@ sudo apt-get install apache2 mongodb-org pigz -y
 
 sudo apt install -y --no-install-recommends php8.2*
 
-sduo ACCEPT_EULA=Y  apt-get install filecloud -y
+sudo ACCEPT_EULA=Y  apt-get install filecloud -y
